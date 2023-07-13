@@ -1,0 +1,12 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.google-search-bg-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
